@@ -1,0 +1,16 @@
+{
+  "python.formatting.provider": "black",
+  "github.copilot.advanced": {
+  "autocomplete.length": 100
+
+  
+  },
+  "github.copilot.autocomplete.enable": true,
+  "github.copilot.enable": {
+  
+    "*": true,
+    "yaml": false,
+    "plaintext": false,
+    "markdown": false
+  }
+}
